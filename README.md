@@ -66,7 +66,7 @@ The iHost application enables casino hosts to have at their fingertips all the i
 <li>📱 Call / Messages</li>
 </ul>
 
-<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://apps.apple.com/app/ihost-redwind/id1608242442" rel="nofollow">iMeter</a></h1>
+<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://apps.apple.com/app/imeter-mlcv/id1608054285" rel="nofollow">iMeter</a></h1>
 <img width="366" alt="Screenshot 2024-08-21 at 11 45 12 AM" src="https://github.com/user-attachments/assets/cfed7c9b-4fdc-4bfc-9f0d-797388f25595">
 
 <br>
