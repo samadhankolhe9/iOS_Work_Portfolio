@@ -80,3 +80,23 @@ iMeter automates the workflow and the process of recording progressive meter dat
 <li>🏦 App Storage</li>
 <li>📱 Vision framwork</li>
 </ul>
+
+<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://apps.apple.com/in/app/standalone-stream/id1611753181" rel="nofollow">Standalone Stream</a></h1>
+<img width="1020" alt="Screenshot 2024-08-21 at 6 15 43 PM" src="https://github.com/user-attachments/assets/704e6c7d-7153-4840-b212-1ada180c6e0b">
+
+<br>
+Standalone Stream, or simply Standalone, is a subscription video on-demand over-the-top streaming, Pay-per-View, rental service of standalonefilmfest.com, UV Talkies, United Media Works’ offered as a standalone service. The service primarily showcase films, short films and television series produced by Standalone Stream (UV Talkies) or licensed to Standalone Stream, as Standalone Originals, with the service also hosting content from Standalone Film Festival & Awards, other providers, content add-ons, live sporting events, and video rental and purchasing services.
+<br>
+
+<h6 tabindex="-1" class="heading-element" dir="auto">Tech Used</h6> 
+<ul dir="auto">
+<li>💿 Video streaming / playper</li>
+<li>🎨 Swift 5</li>
+<li>🏦 App Storage</li>
+<li>$ Payment gateway</li>
+<li>👨🏻‍💻 Apple subscriptions</li>
+<li>💿 MVVM Design</li>
+<li>🗣️ Multi language</li>
+</ul>
+
+
