@@ -45,7 +45,8 @@ Transferring funds is a breeze with W1TTY; just a few taps. You can rest assured
 <li>🏦 App Storage</li>
 <li>💿 Core Data</li>
 <li>$ Payment gateway</li>
-<li>💿 MVVM Design</li>
+<li>䷴ MVVM Design</li>
+<li>䷴ Coordinator Design pattern</li>
 <li>🗣️ Multi language</li>
 <li>📱 Encryption Decryption mechanism</li>
 </ul>
@@ -64,6 +65,25 @@ The iHost application enables casino hosts to have at their fingertips all the i
 <li>🏦 App Storage</li>
 <li>📈 Chart</li>
 <li>📱 Call / Messages</li>
+</ul>
+
+
+
+
+<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://apps.apple.com/app/igreet-mystic/id6467819744" rel="nofollow">iGreet</a></h1>
+<img width="366" alt="Screenshot 2024-08-21 at 11 45 12 AM" src="https://github.com/user-attachments/assets/59311066-51af-48eb-bb92-b451bbdb736a">
+
+<br>
+The iGreet application enables casino Employee's to have at their fingertips all the information they need to service their guests. This serves the casino guests efficiently and quickly, creating a superior loyalty experience.
+<br>
+
+<h6 tabindex="-1" class="heading-element" dir="auto">Tech Used</h6> 
+<ul dir="auto">
+<li>💿 Core Data</li>
+<li>🎨 Swift 5</li>
+<li>🏦 App Storage</li>
+<li>📱 Multi Theme</li>
+<li>䷴ MVVM design pattern</li>
 </ul>
 
 <h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://apps.apple.com/app/imeter-mlcv/id1608054285" rel="nofollow">iMeter</a></h1>
