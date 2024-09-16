@@ -25,6 +25,12 @@ Push Notifications, Jira Management, Git repos.
 • Master in Computer science (MCS) - Pune Jul 2012 - APRIL 2014 <br>
 • Bachelor in Computer science (BCS) - Pune Jul 2009 - APRIL 2012
 
+<h5 tabindex="-1" class="heading-element" dir="auto">🗣️ Communication: </h5>
+
+• English <br>
+• Hindi <br>
+• Marathi
+
 
 <h5 tabindex="-1" class="heading-element" dir="auto">👨🏻‍💻 PROJECTS: </h5>
 <h6 tabindex="-1" class="heading-element" dir="auto">most recent projects</h6> 
